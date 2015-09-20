@@ -14,3 +14,13 @@ Here are the steps I did to produce the VirtualBox image that we will be using f
 6. Reboot into Ubuntu and install VM guest additions
 7. Enable 3D acceleration in VirtualBox
 8. Reboot again and [install ROS Jade](http://wiki.ros.org/jade/Installation/Ubuntu)
+
+## Agenda
+
+1. [Concepts](http://wiki.ros.org/ROS/Higher-Level%20Concepts)
+2. [Installation](http://wiki.ros.org/jade/Installation/Ubuntu)
+3. [Tutorials](http://wiki.ros.org/ROS/Tutorials)
+4. [Turtlesim](http://wiki.ros.org/turtlesim), [Understanding Topics](http://wiki.ros.org/ROS/Tutorials/UnderstandingTopics)
+5. [MoveIt!](http://moveit.ros.org/)
+6. [Odroid C1](http://www.hardkernel.com/main/products/prdt_info.php?g_code=G141578608433)
+7. ???
