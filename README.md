@@ -8,7 +8,7 @@ Here are the steps I did to produce the VirtualBox image that we will be using f
 
 1. Download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) ([VMware](https://www.vmware.com/) would work as well)
 2. Download Ubuntu 14.04.3 LTS (Trusty Tahr) 64-bit PC (AMD64) desktop image [iso (slow)](http://releases.ubuntu.com/14.04/ubuntu-14.04.3-desktop-amd64.iso) [torrent (fast)](http://releases.ubuntu.com/14.04/ubuntu-14.04.3-desktop-amd64.iso.torrent): 
-3. Create new VirtualBox VM with 20GB drive (can be dynamic)
+3. Create new VirtualBox VM with 20GB drive (can be dynamic) - for RAM I did 4096MB.
 4. Attach iso to storage of new VM (so it will boot from image)
 5. Boot VM and install Ubuntu (pick default options for installation questions)
 6. Reboot into Ubuntu and install VM guest additions
