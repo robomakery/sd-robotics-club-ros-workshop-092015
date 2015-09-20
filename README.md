@@ -12,7 +12,8 @@ Here are the steps I did to produce the VirtualBox image that we will be using f
 4. Attach iso to storage of new VM (so it will boot from image)
 5. Boot VM and install Ubuntu (pick default options for installation questions)
 6. Reboot into Ubuntu and install VM guest additions
-7. Enable 3D acceleration in VirtualBox
+7. Install Xubuntu:
+    $ sudo apt-get install xubuntu-desktop
 8. Reboot again and [install ROS Jade](http://wiki.ros.org/jade/Installation/Ubuntu)
 
 ## Agenda
